@@ -3,11 +3,11 @@ The Encyclopedia Entries project is the repository for the definition and explan
 
 ##Team: Imaginative-Levaillants-Barbet
 ##Members:
-- Eric Osorio:
+Eric Osorio:
    <li>\<tr\>
    <li>border-image-width
    <li>String.prototype.split()
-- Patrick Franz:
+Patrick Franz:
    <li>\<caption\>
    <li>top
    <li>String.prototype.formCharCode()
