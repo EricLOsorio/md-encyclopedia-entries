@@ -1,0 +1,2 @@
+# md-encyclopedia-entries
+The Encyclopedia Entries project is the repository for the definition and explanation of HTML, CSS, and JavaScript concepts to be used as a resource for the ModernDeveloper.com community and at some point by the Developer community at large.
