@@ -72,3 +72,7 @@ A simple `table` with a much more elaborate `caption` element.
   </tr>
 </table>
 ```
+
+## Special Notes
+
+By default, a `caption` is placed at the top in the center of the table, however, with CSS properties such as `text-align` and `caption-side` the caption can be placed elsewhere.
