@@ -6,12 +6,13 @@ The Encyclopedia Entries project is the repository for the definition and explan
 Eric Osorio:
    <li>\<tr\>
    <li>border-image-width
-   <li>String.prototype.split()
+   <li>String.prototype.formCharCode()
    
 Patrick Franz:
    <li>\<caption\>
    <li>top
-   <li>String.prototype.formCharCode()
+   <li>String.prototype.split()   
+
 
 
 ##Work Flow
