@@ -66,16 +66,16 @@ Or specifying the value as a percentage of the
 The complex example above demonstrates that if only one number is used to specify the border-image-width, then that means that the value will apply to both the horizontal and the vertical components of the image, however, if two or more numbers are used, then the following rules apply:
 
 If two values are used:
-first value will apply to the top and bottom horizontal borders, 
+the first value will apply to the top and bottom horizontal borders, 
 the second value will apply to the right and left vertical borders
 
 If three values are used:
-first value will apply to the top and bottom horizontal borders, 
+the first value will apply to the top and bottom horizontal borders, 
 the second value will apply to the right and left vertical borders
 the third value will apply to the bottom horizontal border
 
 If four values are used:
-first value will apply to the top horizontal border, 
+the first value will apply to the top horizontal border, 
 the second value will apply to the right vertical borders
 the third value will apply to the bottom horizontal border
 the fourth value will apply to the left vertical border
