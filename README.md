@@ -4,7 +4,7 @@ The Encyclopedia Entries project is the repository for the definition and explan
 ##Team: Imaginative-Levaillants-Barbet
 ##Members:
 Eric Osorio:
-   <li><a  href="<tr>.md">\<tr\></a>
+   <li>\<tr\>
    <li>border-image-width
    <li>String.prototype.formCharCode()
    
