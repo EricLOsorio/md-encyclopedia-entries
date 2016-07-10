@@ -35,7 +35,7 @@ The list of these attributes is:
 
 ## Example 1
 
-A simple table consisting of 3 rows and 3 cells
+A simple table consisting of 3 rows each with 3 cells
 
 ```
   <table>
