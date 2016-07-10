@@ -19,14 +19,19 @@ Introduction to the syntax/usage. A example of CSS syntax is below:
 #### number
 
 The number value can be one of 3 choices:
-        • A number with pixel units defined the width in pixels, i.e. `px` after the number
+        
+        • A number representing length, which will be followed by the unit of length, e.g. px, em, rem, pt, etc.
+       
+        • A number followed by the `%` sign, which will represent the width of the border as a percentage of the element length/width
+        
         • A number by itself, no unix suffix, which represents multiples of the default border-image-width.
-          The default is 1, so a value of `2` would make the border-image-width twice as wide as the origina
+          The default is 1, so a value of `2` would make the border-image-width twice as wide as the original
 
 #### %
         • The `%` sign after the number, represents the percentage of the area being enclosed
           by the border image that the border itself will take. If it is not used, then the number will be either followed by
-          `px` or will be by itself
+          a unit of length, e.g. `px` or will be by itself
+
 #### auto
 
 The `auto` value will display the intrinsic width or height of the corresponding image slice. So, what this means is taht when  specified, the auto settings will use whatever the number is specified for the border-image-slice property and use that as the horizontal and vertical widths in px units.
